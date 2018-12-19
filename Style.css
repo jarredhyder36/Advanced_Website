@@ -1,5 +1,67 @@
-body 
+
+body /*Border around whole website*/
 {
-	border: 
-	background-color: 
+	background-color: #0943ef;
+}
+
+div /*Presents text in block fomrat*/
+{
+	Display:block;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+.header /*Title going across top of website*/
+{
+	background-color:#ce0e0e;
+	text-align: center;
+	padding:20px;
+}
+
+.topnav /*Navigation bar*/
+{
+	overflow:hidden;
+	background-color:##ce0e0e;
+}
+	
+.topnav a /* Placement and details for navigation bar*/
+{
+	float: right;
+	display:block; 
+	color:#bdbfc1;
+	text-align: center;
+	padding: 14px 16px;
+	test-decoration:none;
+}
+
+.leftcolumn1 /*Left column sizing for text*/
+{
+	float: left;
+	width: 30%;
+}
+
+.columnright1 /*right column sizing for pictures*/
+{
+	float:right;
+	width:25%;
+}
+
+.columnmiddle1 /*middle column sizing for text*/
+{
+	float:right;
+	width:30%;
+}
+
+.card /*Black body text is placed in the column on the left*/
+{
+	background-color:#ce0e0e;
+	padding:10px;
+	margin-top:20px;
+}
+
+.boxed /*You can't see the black border but it helps keep everything together in the card*/
+{
+	border:10px solid #ce0e0e;
 }
