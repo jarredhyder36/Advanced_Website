@@ -15,7 +15,7 @@ div /*Shows text in block fomrat*/
 
 .header /*Title on top of website*/
 {
-	background-color:#ce0e0e;
+	background-color:#b20312;
 	text-align: center;
 	padding:20px;
 }
@@ -23,7 +23,7 @@ div /*Shows text in block fomrat*/
 .topnav /*Navigation bar*/
 {
 	overflow:hidden;
-	background-color:#ce0e0e;
+	background-color:#b20312;
 }
 	
 .topnav a /*Details for navigation bar*/
@@ -54,9 +54,9 @@ div /*Shows text in block fomrat*/
 	width:30%;
 }
 
-.card /* body text is placed in left column*/
+.card /*colored box the text is on*/
 {
-	background-color:#ce0e0e;
+	background-color:#b20312;
 	padding:10px;
 	margin-top:20px;
 }
