@@ -23,7 +23,7 @@ div /*Presents text in block fomrat*/
 .topnav /*Navigation bar*/
 {
 	overflow:hidden;
-	background-color:##ce0e0e;
+	background-color:#ce0e0e;
 }
 	
 .topnav a /* Placement and details for navigation bar*/
@@ -61,7 +61,7 @@ div /*Presents text in block fomrat*/
 	margin-top:20px;
 }
 
-.boxed /*You can't see the black border but it helps keep everything together in the card*/
+p.hidden /*You can't see the black border but it helps keep everything together in the card*/
 {
-	border:10px solid #ce0e0e;
+	border-style: hidden;
 }
