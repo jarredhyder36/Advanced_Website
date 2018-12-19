@@ -4,7 +4,7 @@ body /*Border around whole website*/
 	background-color: #0943ef;
 }
 
-div /*Presents text in block fomrat*/
+div /*Shows text in block fomrat*/
 {
 	Display:block;
 	margin-top:20px;
@@ -13,7 +13,7 @@ div /*Presents text in block fomrat*/
 	margin-left:20px;
 }
 
-.header /*Title going across top of website*/
+.header /*Title on top of website*/
 {
 	background-color:#ce0e0e;
 	text-align: center;
@@ -26,7 +26,7 @@ div /*Presents text in block fomrat*/
 	background-color:#ce0e0e;
 }
 	
-.topnav a /* Placement and details for navigation bar*/
+.topnav a /*Details for navigation bar*/
 {
 	float: center;
 	display:block; 
@@ -36,32 +36,32 @@ div /*Presents text in block fomrat*/
 	test-decoration:none;
 }
 
-.leftcolumn1 /*Left column sizing for text*/
+.leftcolumn1 /*Left column sizing*/
 {
 	float: left;
 	width: 30%;
 }
 
-.columnright1 /*right column sizing for pictures*/
+.columnright1 /*right column sizing*/
 {
 	float:right;
 	width:25%;
 }
 
-.columnmiddle1 /*middle column sizing for text*/
+.columnmiddle1 /*middle column sizing*/
 {
 	float:right;
 	width:30%;
 }
 
-.card /*Black body text is placed in the column on the left*/
+.card /* body text is placed in left column*/
 {
 	background-color:#ce0e0e;
 	padding:10px;
 	margin-top:20px;
 }
 
-.hidden /*You can't see the black border but it helps keep everything together in the card*/
+.hidden /*Hidden broder to keep text in the card*/
 {
 	border-style: hidden;
 }
