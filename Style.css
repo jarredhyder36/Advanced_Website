@@ -61,7 +61,7 @@ div /*Presents text in block fomrat*/
 	margin-top:20px;
 }
 
-p.hidden /*You can't see the black border but it helps keep everything together in the card*/
+.hidden /*You can't see the black border but it helps keep everything together in the card*/
 {
 	border-style: hidden;
 }
