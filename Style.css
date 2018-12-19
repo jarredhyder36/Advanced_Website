@@ -28,9 +28,9 @@ div /*Presents text in block fomrat*/
 	
 .topnav a /* Placement and details for navigation bar*/
 {
-	float: right;
+	float: center;
 	display:block; 
-	color:#bdbfc1;
+	color:#abaeb2;
 	text-align: center;
 	padding: 14px 16px;
 	test-decoration:none;
